@@ -2,7 +2,7 @@
 
 Lumina Puzzle is a sleek, neon-themed `Lights Out` style puzzle game built with Kotlin and Jetpack Compose.
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen.svg)](dist/LuminaPuzzle.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen.svg)](https://github.com/Sharmagowtham709/Lumina-Puzzle/raw/main/dist/LuminaPuzzle.apk)
 
 ## Features
 
