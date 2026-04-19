@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lumina Puzzle</string>
+    <string name="new_game">Nueva partida</string>
+    <string name="daily_challenge">Desafio diario</string>
+    <string name="moves">Movimientos: %1$d</string>
+    <string name="best_score">Mejor: %1$d</string>
+    <string name="best_score_empty">Mejor: -</string>
+    <string name="daily_best">Mejor diario: %1$d</string>
+    <string name="daily_best_empty">Mejor diario: -</string>
+    <string name="puzzle_completed">Rompecabezas resuelto!</string>
+    <string name="level">Nivel %1$d</string>
+    <string name="title">Lumina Puzzle</string>
+    <string name="subtitle">Apaga todas las luces.</string>
+    <string name="next_level">Siguiente nivel</string>
+    <string name="total_wins">Victorias: %1$d</string>
+    <string name="streak">Racha: %1$d</string>
+    <string name="achievement_novice">Novato</string>
+    <string name="achievement_rising">En ascenso</string>
+    <string name="achievement_streak">Imparable</string>
+    <string name="how_to_play">Cómo jugar</string>
+    <string name="tutorial_desc">Toca una casilla para cambiarla junto a sus cuatro vecinos. ¡Intenta apagar todas las luces!</string>
+    <string name="skip_tutorial">Saltar</string>
+    <string name="got_it">¡Entendido!</string>
+    <string name="hints">Pistas: %1$d</string>
+    <string name="hint_btn">Pista</string>
+</resources>

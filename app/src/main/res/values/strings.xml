@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lumina Puzzle</string>
+    <string name="new_game">New Game</string>
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="moves">Moves: %1$d</string>
+    <string name="best_score">Best: %1$d</string>
+    <string name="best_score_empty">Best: -</string>
+    <string name="daily_best">Daily Best: %1$d</string>
+    <string name="daily_best_empty">Daily Best: -</string>
+    <string name="puzzle_completed">Puzzle solved!</string>
+    <string name="level">Level %1$d</string>
+    <string name="title">Lumina Puzzle</string>
+    <string name="subtitle">Turn all lights off.</string>
+    <string name="next_level">Next Level</string>
+    <string name="total_wins">Wins: %1$d</string>
+    <string name="streak">Streak: %1$d</string>
+    <string name="achievement_novice">Novice</string>
+    <string name="achievement_rising">Rising Star</string>
+    <string name="achievement_streak">On Fire</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="tutorial_desc">Tap a tile to toggle it and its four neighbors. Try to turn all lights off!</string>
+    <string name="skip_tutorial">Skip</string>
+    <string name="got_it">Got it!</string>
+    <string name="hints">Hints: %1$d</string>
+    <string name="hint_btn">Hint</string>
+</resources>
